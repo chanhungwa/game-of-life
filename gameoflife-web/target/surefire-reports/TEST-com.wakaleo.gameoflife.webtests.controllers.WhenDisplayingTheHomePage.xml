@@ -63,6 +63,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenDisplayingTheHomePage" name="theHomeUrlShouldDisplayTheHomePage" time="0.003"/>
-  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenDisplayingTheHomePage" name="theIndexUrlShouldDisplayTheHomePage" time="0"/>
+  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenDisplayingTheHomePage" name="theHomeUrlShouldDisplayTheHomePage" time="0.002"/>
+  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenDisplayingTheHomePage" name="theIndexUrlShouldDisplayTheHomePage" time="0.001"/>
 </testsuite>
