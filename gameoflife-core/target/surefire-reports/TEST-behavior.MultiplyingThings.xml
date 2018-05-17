@@ -1,4 +1,4 @@
-<testsuite tests='1' results='0' failures='0' disabled='1' errors='0' time='0.084' name='behavior.MultiplyingThings'>
+<testsuite tests='1' results='0' failures='0' disabled='1' errors='0' time='0.069' name='behavior.MultiplyingThings'>
   <testcase classname='behavior.MultiplyingThings' name='Adding two integers' time='0.014'>
     <skipped />
   </testcase>
