@@ -64,5 +64,5 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenSpawningANewGeneration" name="theIndexUrlShouldDisplayTheHomePage" time="0"/>
-  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenSpawningANewGeneration" name="whenGeneratingTheNextGenerationAnUpdatedUniverseShouldBeProduced" time="0.033"/>
+  <testcase classname="com.wakaleo.gameoflife.webtests.controllers.WhenSpawningANewGeneration" name="whenGeneratingTheNextGenerationAnUpdatedUniverseShouldBeProduced" time="0.042"/>
 </testsuite>
