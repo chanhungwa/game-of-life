@@ -1,13 +1,13 @@
-<easyb time='Mon May 21 10:31:26 EDT 2018' totalbehaviors='2' totalfailedbehaviors='0' totalpendingbehaviors='1' executionTime='1210'>
-  <stories scenarios='2' failedscenarios='0' pendingscenarios='1' executionTime='1210'>
-    <story name='counting things' scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='1154'>
-      <scenario name='Adding two integers' result='success' executionTime='88'>
+<easyb time='Mon May 21 10:32:32 EDT 2018' totalbehaviors='2' totalfailedbehaviors='0' totalpendingbehaviors='1' executionTime='917'>
+  <stories scenarios='2' failedscenarios='0' pendingscenarios='1' executionTime='917'>
+    <story name='counting things' scenarios='1' failedscenarios='0' pendingscenarios='0' executionTime='871'>
+      <scenario name='Adding two integers' result='success' executionTime='89'>
         <given name='two integer values of 1 and 2' result='success' />
         <when name='we calculate the sum of the two values' result='success' />
         <then name='the sum should be 3' result='success' />
       </scenario>
     </story>
-    <story name='multiplying things' scenarios='1' failedscenarios='0' pendingscenarios='1' executionTime='56'>
+    <story name='multiplying things' scenarios='1' failedscenarios='0' pendingscenarios='1' executionTime='46'>
       <scenario name='Adding two integers' result='pending' executionTime='7'>
         <given name='two integer values of 2 and 3' result='success' />
         <when name='we calculate the product of the two values' result='success' />
